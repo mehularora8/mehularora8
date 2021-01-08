@@ -1,4 +1,22 @@
-### Hi there 👋
+# 👀 Hey there! My name is Mehul Arora. 
+
+I am a sophomore at Stanford University pursuing a Computer Science Major with a concentration in Artificial Intelligence. 
+
+### 💡 What I'm interested in
+
+I love building scalable technology that reaches a wide range of people. I am proficient in C++, Python and Swift, and I am interested in AI, Mobile App Development, and Cybersecurity. I'm always open and looking to collaborate on any interesting projects!
+
+### 👨🏽‍🎓Here's what I'm currently learning:
+
+- ReactJS
+- NodeJS
+
+### 📫 How to reach me:
+
+- [Twitter](https://twitter.com/NotQuiteAurora)
+- [Email](mailto:aroram8@stanford.edu)
+- [LinkedIn](https://linkedin.com/in/mehul-arora)
+- [My website](https://mehularora.me)
 
 <!--
 **mehularora8/mehularora8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
