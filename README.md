@@ -13,7 +13,6 @@ I love building scalable technology that reaches a wide range of people. I am pr
 
 ### 📫 How to reach me:
 
-- [Twitter](https://twitter.com/NotQuiteAurora)
 - [Email](mailto:aroram8@stanford.edu)
 - [LinkedIn](https://linkedin.com/in/mehul-arora)
 - [My website](https://mehularora.me)
