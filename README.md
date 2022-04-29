@@ -1,6 +1,6 @@
 # 👀 Hey there! My name is Mehul Arora. 
 
-I am a sophomore at Stanford University pursuing a Computer Science Major with a concentration in Artificial Intelligence. 
+I am a junior at Stanford University pursuing a Computer Science Major with a concentration in HCI. 
 
 ### 💡 What I'm interested in
 
