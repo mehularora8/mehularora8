@@ -4,7 +4,7 @@ I am a junior at Stanford University pursuing a Computer Science Major with a co
 
 ### 💡 What I'm interested in
 
-I love building scalable technology that reaches a wide range of people. I am proficient in C++, Python and Swift, and I am interested in AI, Mobile App Development, and Cybersecurity. I'm always open and looking to collaborate on any interesting projects!
+I love building scalable technology that reaches a wide range of people. I am proficient in C++, Python and Swift, and I am interested in HCI and Mobile and Web App Development. I'm always open and looking to collaborate on any interesting projects!
 
 ### 👨🏽‍🎓Here's what I'm currently learning:
 
