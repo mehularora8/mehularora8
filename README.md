@@ -1,15 +1,14 @@
-# 👀 Hey there! My name is Mehul Arora. 
+# 👀 Hey there! My name is Mehul. 
 
-I am a junior at Stanford University pursuing a Computer Science Major with a concentration in HCI. 
+I am a senior at Stanford University doing Computer Science with a concentration in AI and HCI. 
 
 ### 💡 What I'm interested in
 
-I love building scalable technology that reaches a wide range of people. I am proficient in C++, Python and Swift, and I am interested in HCI and Mobile and Web App Development. I'm always open and looking to collaborate on any interesting projects!
+I love building scalable things that reach people. Most of my arsenal is C++, Python and Swift, and I am interested in any and all use cases. I'm always open and looking to collaborate on any interesting projects!
 
 ### 👨🏽‍🎓Here's what I'm currently learning:
 
-- ReactJS
-- NodeJS
+- Frontend Dev in React
 
 ### 📫 How to reach me:
 
